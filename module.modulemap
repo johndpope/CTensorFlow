@@ -1,5 +1,4 @@
 module CTensorFlow [system] {
   header "CTensorFlow.h"
-  link "tensorflow_c"
   export *
 }
